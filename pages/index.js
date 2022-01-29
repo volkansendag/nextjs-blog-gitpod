@@ -17,6 +17,9 @@ export default function Home() {
         <p>
           Bu kadarını beklemiyordum açıkçası
         </p>
+        <p>
+          daha ne yapılabilir ki?
+        </p>
       </section>
     </Layout>
   )
