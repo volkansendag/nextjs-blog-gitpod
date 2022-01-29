@@ -4,7 +4,7 @@
 
 tasks:
   - name: Start web server
-    init: npm install && npm run build && python -m http.server 8000
+    init: npm install && npm run build
     command: npm run start
 vscode:
   extensions:
