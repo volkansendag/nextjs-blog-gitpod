@@ -15,7 +15,7 @@ export default function Home() {
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
         <p>
-          Bu kadarını beklemiyordum açıkçası
+          daha ne yapılabilir ki ?
         </p>
         <p>
           daha ne yapılabilir ki?
