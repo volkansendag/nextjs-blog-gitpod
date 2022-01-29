@@ -3,8 +3,7 @@
 # and commit this file to your remote git repository to share the goodness with others.
 
 tasks:
-  - name: Start web server
-    init: npm install && npm run build
+  - init: npm install && npm run build
     command: npm run start
 vscode:
   extensions:
