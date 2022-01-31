@@ -11,8 +11,10 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>Software Architech</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          Sayfayı kaydettikten sonra <br />
+          npm run build yapmak gerekiyor. <br />
+          live reload yapamadım ama uygulamayı ayrı terminalde build edince  <br />
+          html kısmı güncelleniyor <br />
           Test
         </p>
       </section>
